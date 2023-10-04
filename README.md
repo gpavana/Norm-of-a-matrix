@@ -40,7 +40,7 @@ print(norm)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![Norm of a matrix](norm1.ng)
+![Norm of a matrix](norm1.png)
 
 ### 2-Norm of a Matrix
 ![Norm of a matrix](norm2.png)

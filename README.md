@@ -40,10 +40,10 @@ print(norm)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-![Norm of a matrix](norm1.png)
+![image](https://github.com/gpavana/Norm-of-a-matrix/assets/118787343/d4b22fd9-8588-485d-abc1-f7957f595c11)
 ### 2-Norm of a Matrix
-![Norm of a matrix](norm2.png)
+![image](https://github.com/gpavana/Norm-of-a-matrix/assets/118787343/68f9ad31-4a95-44c8-87d3-d7171933b3d3)
 ### Infinity Norm of a Matrix
-![Norm of a matrix](norm3.png)
+![image](https://github.com/gpavana/Norm-of-a-matrix/assets/118787343/caa5c7cb-f046-4a7b-a68c-a278a8c28dd6)
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.

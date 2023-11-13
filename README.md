@@ -1,4 +1,5 @@
 # Norm of a matrix
+## DATE:03.10.2023
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
@@ -36,17 +37,13 @@ a=eval(input())
 soln=np.linalg.norm(a,np.inf)
 norm="{:.2f}".format(soln)
 print(norm)
-
 ```
 ## Output:
 ### 1-Norm of a Matrix
 ![Norm of a matrix](norm1.png)
-
 ### 2-Norm of a Matrix
 ![Norm of a matrix](norm2.png)
-
 ### Infinity Norm of a Matrix
 ![Norm of a matrix](norm3.png)
-
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
